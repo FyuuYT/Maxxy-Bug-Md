@@ -5,7 +5,7 @@
 var monoSpace = '```'
 
 exports.listmenu = (sender,prefix,ad,namenya,premnya,usernya,romnya,tanggal,jam) => {
-return`━━━❲ 𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯 ❳━━━
+return`━━━❲ Fyuu Botz ❳━━━
 ┏━━━━━━━━━━━━━
 ┣━( 𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢 )
 ┃🖇️ ID : @${sender.split('@')[0]}
@@ -21,110 +21,110 @@ return`━━━❲ 𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯 ❳━━━
 ┃📝 Total Fitur : 600+
 ┣━━━━━━━━━━━━━
 ┣━❲ 𝙈𝘼𝙄𝙉 𝙈𝙀𝙉𝙐 ❳
-┃⭐ ${prefix}menu
-┃⭐ ${prefix}iklan
-┃⭐ ${prefix}rules
-┃⭐ ${prefix}owner
-┃⭐ ${prefix}infobot
-┃⭐ ${prefix}donasi
-┃⭐ ${prefix}donate
-┃⭐ ${prefix}sewabot
-┃⭐ ${prefix}groupbot
-┃⭐ ${prefix}ownerinfo
-┃⭐ ${prefix}infoowner
+┃ ${prefix}menu
+┃ ${prefix}iklan
+┃ ${prefix}rules
+┃ ${prefix}owner
+┃ ${prefix}infobot
+┃ ${prefix}donasi
+┃ ${prefix}donate
+┃ ${prefix}sewabot
+┃ ${prefix}groupbot
+┃ ${prefix}ownerinfo
+┃ ${prefix}infoowner
 ┣━━━━━━━━━━━━━━
 ┣━❲ 𝙐𝙎𝙀𝙍 𝙈𝙀𝙉𝙐 ❳
-┃⭐ ${prefix}verify
-┃⭐ ${prefix}report
-┃⭐ ${prefix}request
-┃⭐ ${prefix}transfer
-┃⭐ ${prefix}menfess
-┃⭐ ${prefix}buatroom
-┃⭐ ${prefix}secretchat
-┃⭐ ${prefix}cekprem
-┃⭐ ${prefix}daftarprem
-┃⭐ ${prefix}changename
+┃ ${prefix}verify
+┃ ${prefix}report
+┃ ${prefix}request
+┃ ${prefix}transfer
+┃ ${prefix}menfess
+┃ ${prefix}buatroom
+┃ ${prefix}secretchat
+┃ ${prefix}cekprem
+┃ ${prefix}daftarprem
+┃ ${prefix}changename
 ┣━━━━━━━━━━━━━━
 ┣━❲ 𝙊𝙒𝙉𝙀𝙍 𝙈𝙀𝙉𝙐 ❳
-┃⭐ ${prefix}error
-┃⭐ ${prefix}clearerr
-┃⭐ ${prefix}siaran
-┃⭐ ${prefix}session
-┃⭐ ${prefix}resetdb
-┃⭐ ${prefix}runtime
-┃⭐ ${prefix}setexif
-┃⭐ ${prefix}setwm
-┃⭐ ${prefix}setfooter
-┃⭐ ${prefix}setapikey
-┃⭐ ${prefix}setppbot
-┃⭐ ${prefix}addprem
-┃⭐ ${prefix}delprem
-┃⭐ ${prefix}bc
-┃⭐ ${prefix}bctext
-┃⭐ ${prefix}bcvideo
-┃⭐ ${prefix}bcaudio
-┃⭐ ${prefix}bcimage
-┃⭐ ${prefix}broadcast
+┃ ${prefix}error
+┃ ${prefix}clearerr
+┃ ${prefix}siaran
+┃ ${prefix}session
+┃ ${prefix}resetdb
+┃ ${prefix}runtime
+┃ ${prefix}setexif
+┃ ${prefix}setwm
+┃ ${prefix}setfooter
+┃ ${prefix}setapikey
+┃ ${prefix}setppbot
+┃ ${prefix}addprem
+┃ ${prefix}delprem
+┃ ${prefix}bc
+┃ ${prefix}bctext
+┃ ${prefix}bcvideo
+┃ ${prefix}bcaudio
+┃ ${prefix}bcimage
+┃ ${prefix}broadcast
 ┣━━━━━━━━━━━━━━
 ┣━❲ 𝙎𝙏𝙊𝙍𝙀 𝙈𝙀𝙉𝙐 ❳
-┃⭐ ${prefix}kali 1 2
-┃⭐ ${prefix}bagi 1 2
-┃⭐ ${prefix}kurang 1 2
-┃⭐ ${prefix}tambah 1 2
-┃⭐ ${prefix}dellist key
-┃⭐ ${prefix}addlist key@response
-┃⭐ ${prefix}update key@response
-┃⭐ ${prefix}done <reply orderan>
-┃⭐ ${prefix}proses <reply orderan>
-┃⭐ ${prefix}list <only group>
-┃⭐ ${prefix}shop <only group>
+┃ ${prefix}kali 1 2
+┃ ${prefix}bagi 1 2
+┃ ${prefix}kurang 1 2
+┃ ${prefix}tambah 1 2
+┃ ${prefix}dellist key
+┃ ${prefix}addlist key@response
+┃ ${prefix}update key@response
+┃ ${prefix}done <reply orderan>
+┃ ${prefix}proses <reply orderan>
+┃ ${prefix}list <only group>
+┃ ${prefix}shop <only group>
 ┣━━━━━━━━━━━━━━
 ┣━❲ 𝙂𝙍𝙊𝙐𝙋 𝙈𝙀𝙉𝙐 ❳
-┃⭐ ${prefix}fitnah
-┃⭐ ${prefix}delete
-┃⭐ ${prefix}revoke
-┃⭐ ${prefix}tagall
-┃⭐ ${prefix}hidetag
-┃⭐ ${prefix}setdesc
-┃⭐ ${prefix}linkgrup
-┃⭐ ${prefix}infogroup
-┃⭐ ${prefix}setppgrup
-┃⭐ ${prefix}setnamegrup
-┃⭐ ${prefix}group open
-┃⭐ ${prefix}group close
-┃⭐ ${prefix}antilink on
-┃⭐ ${prefix}antilink off
-┃⭐ ${prefix}welcome on
-┃⭐ ${prefix}welcome off
-┃⭐ ${prefix}tiktokauto on
-┃⭐ ${prefix}tiktokauto off
-┃⭐ ${prefix}kick @tag
-┃⭐ ${prefix}demote @tag
-┃⭐ ${prefix}promote @tag
+┃ ${prefix}fitnah
+┃ ${prefix}delete
+┃ ${prefix}revoke
+┃ ${prefix}tagall
+┃ ${prefix}hidetag
+┃ ${prefix}setdesc
+┃ ${prefix}linkgrup
+┃ ${prefix}infogroup
+┃ ${prefix}setppgrup
+┃ ${prefix}setnamegrup
+┃ ${prefix}group open
+┃ ${prefix}group close
+┃ ${prefix}antilink on
+┃ ${prefix}antilink off
+┃ ${prefix}welcome on
+┃ ${prefix}welcome off
+┃ ${prefix}tiktokauto on
+┃ ${prefix}tiktokauto off
+┃ ${prefix}kick @tag
+┃ ${prefix}demote @tag
+┃ ${prefix}promote @tag
 ┣━━━━━━━━━━━━━━
 ┣━❲ 𝘼𝙐𝙏𝙊𝘿𝙀𝘾𝙏 𝙈𝙀𝙉𝙐 ❳
-┃⭐ ${prefix}sadcat
-┃⭐ ${prefix}translate
-┃⭐ ${prefix}stalkff
-┃⭐ ${prefix}stalknpm
-┃⭐ ${prefix}stalkgithub
-┃⭐ ${prefix}balikhuruf
-┃⭐ ${prefix}balikangka
-┃⭐ ${prefix}besarkecil
-┃⭐ ${prefix}bilangangka
+┃ ${prefix}sadcat
+┃ ${prefix}translate
+┃ ${prefix}stalkff
+┃ ${prefix}stalknpm
+┃ ${prefix}stalkgithub
+┃ ${prefix}balikhuruf
+┃ ${prefix}balikangka
+┃ ${prefix}besarkecil
+┃ ${prefix}bilangangka
 ┣━━━━━━━━━━━━━━
 ┣━❲ 𝘿𝙊𝙒𝙉𝙇𝙊𝘼𝘿 𝙈𝙀𝙉𝙐 ❳
-┃⭐ ${prefix}tiktok
-┃⭐ ${prefix}ytmp3
-┃⭐ ${prefix}ytmp4
-┃⭐ ${prefix}pinterest
-┃⭐ ${prefix}playmp3
-┃⭐ ${prefix}playmp4
-┃⭐ ${prefix}gitclone
-┃⭐ ${prefix}mediafire
-┃⭐ ${prefix}wikimedia
-┃⭐ ${prefix}soundcloud
-┃⭐ ${prefix}infogempa
+┃ ${prefix}tiktok
+┃ ${prefix}ytmp3
+┃ ${prefix}ytmp4
+┃ ${prefix}pinterest
+┃ ${prefix}playmp3
+┃ ${prefix}playmp4
+┃ ${prefix}gitclone
+┃ ${prefix}mediafire
+┃ ${prefix}wikimedia
+┃ ${prefix}soundcloud
+┃ ${prefix}infogempa
 ┣━━━━━━━━━━━━━━
 ┣━❲ 𝘾𝙊𝙉𝙑𝙀𝙍𝙏 𝙈𝙀𝙉𝙐 ❳
 ┃🍁 ${prefix}tts
@@ -582,125 +582,125 @@ return`━━━❲ 𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯 ❳━━━
 ┃🍁 ${prefix}sound67
 ┃🍁 ${prefix}sound68
 ┃🍁 ${prefix}sound69
-┃⭐ ${prefix}sound70
-┃⭐ ${prefix}sound71
-┃⭐ ${prefix}sound72
-┃⭐ ${prefix}sound73
-┃⭐ ${prefix}sound74
+┃ ${prefix}sound70
+┃ ${prefix}sound71
+┃ ${prefix}sound72
+┃ ${prefix}sound73
+┃ ${prefix}sound74
 ┣━━━━━━━━━━━━━━
 ┣━❲ 𝙏𝙀𝙓𝙏𝙋𝙍𝙊 𝙈𝙀𝙉𝙐 ❳
-┃⭐ ${prefix}metallic text
-┃⭐ ${prefix}naruto text
-┃⭐ ${prefix}butterfly text
-┃⭐ ${prefix}flaming text
-┃⭐ ${prefix}shadow text
-┃⭐ ${prefix}cup text
-┃⭐ ${prefix}cup1 text
-┃⭐ ${prefix}romance text
-┃⭐ ${prefix}smoke text
-┃⭐ ${prefix}burnpaper text
-┃⭐ ${prefix}lovemessage text
-┃⭐ ${prefix}undergrass text
-┃⭐ ${prefix}love text
-┃⭐ ${prefix}coffe text
-┃⭐ ${prefix}woodheart text
-┃⭐ ${prefix}woodenboard text
-┃⭐ ${prefix}summer3d text
-┃⭐ ${prefix}wolfmetal text
-┃⭐ ${prefix}nature3d text
-┃⭐ ${prefix}underwater text
-┃⭐ ${prefix}goldenrose text
-┃⭐ ${prefix}summernature text
-┃⭐ ${prefix}letterleaves text
-┃⭐ ${prefix}glowingneon text
-┃⭐ ${prefix}fallleaves text
-┃⭐ ${prefix}flamming text
-┃⭐ ${prefix}harrypotter text
-┃⭐ ${prefix}carvedwood text
-┃⭐ ${prefix}tiktok text1 text2
-┃⭐ ${prefix}arcade8bit text1 text2
-┃⭐ ${prefix}battlefield4 text1 text2
-┃⭐ ${prefix}pubg text1 text2
+┃ ${prefix}metallic text
+┃ ${prefix}naruto text
+┃ ${prefix}butterfly text
+┃ ${prefix}flaming text
+┃ ${prefix}shadow text
+┃ ${prefix}cup text
+┃ ${prefix}cup1 text
+┃ ${prefix}romance text
+┃ ${prefix}smoke text
+┃ ${prefix}burnpaper text
+┃ ${prefix}lovemessage text
+┃ ${prefix}undergrass text
+┃ ${prefix}love text
+┃ ${prefix}coffe text
+┃ ${prefix}woodheart text
+┃ ${prefix}woodenboard text
+┃ ${prefix}summer3d text
+┃ ${prefix}wolfmetal text
+┃ ${prefix}nature3d text
+┃ ${prefix}underwater text
+┃ ${prefix}goldenrose text
+┃ ${prefix}summernature text
+┃ ${prefix}letterleaves text
+┃ ${prefix}glowingneon text
+┃ ${prefix}fallleaves text
+┃ ${prefix}flamming text
+┃ ${prefix}harrypotter text
+┃ ${prefix}carvedwood text
+┃ ${prefix}tiktok text1 text2
+┃ ${prefix}arcade8bit text1 text2
+┃ ${prefix}battlefield4 text1 text2
+┃ ${prefix}pubg text1 text2
 ┣━━━━━━━━━━━━━━
 ┣━❲ 𝙀𝙋𝙃𝙊𝙏𝙊 𝙈𝙀𝙉𝙐 ❳
-┃⭐ ${prefix}wetglass text
-┃⭐ ${prefix}multicolor3d text
-┃⭐ ${prefix}watercolor text
-┃⭐ ${prefix}luxurygold text
-┃⭐ ${prefix}galaxywallpaper text
-┃⭐ ${prefix}lighttext text
-┃⭐ ${prefix}beautifulflower text
-┃⭐ ${prefix}puppycute text
-┃⭐ ${prefix}royaltext text
-┃⭐ ${prefix}heartshaped text
-┃⭐ ${prefix}birthdaycake text
-┃⭐ ${prefix}galaxystyle text
-┃⭐ ${prefix}hologram3d text
-┃⭐ ${prefix}greenneon text
-┃⭐ ${prefix}glossychrome text
-┃⭐ ${prefix}greenbush text
-┃⭐ ${prefix}metallogo text
-┃⭐ ${prefix}noeltext text
-┃⭐ ${prefix}glittergold text
-┃⭐ ${prefix}textcake text
-┃⭐ ${prefix}starsnight text
-┃⭐ ${prefix}wooden3d text
-┃⭐ ${prefix}textbyname text
-┃⭐ ${prefix}writegalacy text
-┃⭐ ${prefix}galaxybat text
-┃⭐ ${prefix}snow3d text
-┃⭐ ${prefix}birthdayday text
-┃⭐ ${prefix}goldplaybutton text
-┃⭐ ${prefix}silverplaybutton text
-┃⭐ ${prefix}freefire text
+┃ ${prefix}wetglass text
+┃ ${prefix}multicolor3d text
+┃ ${prefix}watercolor text
+┃ ${prefix}luxurygold text
+┃ ${prefix}galaxywallpaper text
+┃ ${prefix}lighttext text
+┃ ${prefix}beautifulflower text
+┃ ${prefix}puppycute text
+┃ ${prefix}royaltext text
+┃ ${prefix}heartshaped text
+┃ ${prefix}birthdaycake text
+┃ ${prefix}galaxystyle text
+┃ ${prefix}hologram3d text
+┃ ${prefix}greenneon text
+┃ ${prefix}glossychrome text
+┃ ${prefix}greenbush text
+┃ ${prefix}metallogo text
+┃ ${prefix}noeltext text
+┃ ${prefix}glittergold text
+┃ ${prefix}textcake text
+┃ ${prefix}starsnight text
+┃ ${prefix}wooden3d text
+┃ ${prefix}textbyname text
+┃ ${prefix}writegalacy text
+┃ ${prefix}galaxybat text
+┃ ${prefix}snow3d text
+┃ ${prefix}birthdayday text
+┃ ${prefix}goldplaybutton text
+┃ ${prefix}silverplaybutton text
+┃ ${prefix}freefire text
 ┣━━━━━━━━━━━━━━
 ┣━❲ 𝙍𝘼𝙉𝘿𝙊𝙈 𝙄𝙈𝘼𝙂𝙀 ❳
-┃⭐ ${prefix}bj
-┃⭐ ${prefix}ero
-┃⭐ ${prefix}ppcp
-┃⭐ ${prefix}cum
-┃⭐ ${prefix}feet
-┃⭐ ${prefix}yuri
-┃⭐ ${prefix}trap
-┃⭐ ${prefix}lewd
-┃⭐ ${prefix}feed
-┃⭐ ${prefix}eron
-┃⭐ ${prefix}solo
-┃⭐ ${prefix}gasm
-┃⭐ ${prefix}poke
-┃⭐ ${prefix}anal
-┃⭐ ${prefix}holo
-┃⭐ ${prefix}tits
-┃⭐ ${prefix}kuni
-┃⭐ ${prefix}kiss
-┃⭐ ${prefix}erok
-┃⭐ ${prefix}smug
-┃⭐ ${prefix}baka
-┃⭐ ${prefix}solog
-┃⭐ ${prefix}feetg
-┃⭐ ${prefix}lewdk
-┃⭐ ${prefix}waifu
-┃⭐ ${prefix}pussy
-┃⭐ ${prefix}femdom
-┃⭐ ${prefix}cuddle
-┃⭐ ${prefix}hentai
-┃⭐ ${prefix}eroyuri
-┃⭐ ${prefix}cum_jpg
-┃⭐ ${prefix}blowjob
-┃⭐ ${prefix}erofeet
-┃⭐ ${prefix}holoero
-┃⭐ ${prefix}classic
-┃⭐ ${prefix}erokemo
-┃⭐ ${prefix}fox_girl
-┃⭐ ${prefix}futanari
-┃⭐ ${prefix}lewdkemo
-┃⭐ ${prefix}wallpaper
-┃⭐ ${prefix}pussy_jpg
-┃⭐ ${prefix}kemonomimi
-┃⭐ ${prefix}nsfw_avatar
+┃ ${prefix}bj
+┃ ${prefix}ero
+┃ ${prefix}ppcp
+┃ ${prefix}cum
+┃ ${prefix}feet
+┃ ${prefix}yuri
+┃ ${prefix}trap
+┃ ${prefix}lewd
+┃ ${prefix}feed
+┃ ${prefix}eron
+┃ ${prefix}solo
+┃ ${prefix}gasm
+┃ ${prefix}poke
+┃ ${prefix}anal
+┃ ${prefix}holo
+┃ ${prefix}tits
+┃ ${prefix}kuni
+┃ ${prefix}kiss
+┃ ${prefix}erok
+┃ ${prefix}smug
+┃ ${prefix}baka
+┃ ${prefix}solog
+┃ ${prefix}feetg
+┃ ${prefix}lewdk
+┃ ${prefix}waifu
+┃ ${prefix}pussy
+┃ ${prefix}femdom
+┃ ${prefix}cuddle
+┃ ${prefix}hentai
+┃ ${prefix}eroyuri
+┃ ${prefix}cum_jpg
+┃ ${prefix}blowjob
+┃ ${prefix}erofeet
+┃ ${prefix}holoero
+┃ ${prefix}classic
+┃ ${prefix}erokemo
+┃ ${prefix}fox_girl
+┃ ${prefix}futanari
+┃ ${prefix}lewdkemo
+┃ ${prefix}wallpaper
+┃ ${prefix}pussy_jpg
+┃ ${prefix}kemonomimi
+┃ ${prefix}nsfw_avatar
 ┗━━━━━━━━━━━━\n
 ☕Sc:chat owner
-☎️Pemilik bot: https://wa.me//6285380166282
+☎️Pemilik bot: https://wa.me//6285845969519
 `
 }
 
@@ -725,16 +725,16 @@ return`──「 *MENU DONATE* 」──
 
 Hi Kak *${cekName}* ${ucapanWaktu} 👋🏻
 
-*Payment Pulsa Telkom*
-Number: 085295374964
+*Payment Pulsa*
+Number: Chat Own
 
 *Payment Dana*
-Number: 085380166282
-A/N: kahfiaja
+Number: Chat Own
+A/N: Chat Own
 
 *Payment Gopay*
-Number: 
-A/N:
+Number: Chat Own
+A/N: Chat Own
 
 ${monoSpace}Terimakasih untuk kamu yang sudah donasi untuk perkembangan bot ini ^_^${monoSpace}
 
@@ -745,17 +745,17 @@ exports.infoOwner = () =>{
 return`──「 *INFO OWNER* 」──
 
  *Data Profil*
- • *Nama:* ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ
- • *Umur:* 17 tahun
+ • *Nama:* Fyuuu
+ • *Umur:* Private
  • *Hoby:* Turu/Game
- • *Askot:* Indonesia,Aceh Timur
- • *Konten:* Creator
+ • *Askot:* Privat
+ • *Konten:* gda
 
 _iam developer bot whatsapp._
 
  *Sosial Media*
- • *Whatsapp:* 085380166282
- • *Youtube:* Yt Maxxy Botz 
- • *Github:* Frezzy-XD
+ • *Whatsapp:* 085845969519
+ • *Youtube:* Fyuu mondok 
+ • *Github:* FyuuYT79
  `
 }
